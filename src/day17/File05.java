@@ -23,6 +23,7 @@ public class File05 {
 		String f2 = f.toString();
 		String fileName = f2.substring(f2.lastIndexOf(File.separator)+1);
 		System.out.println(fileName);
+		
 	}
 
 }
